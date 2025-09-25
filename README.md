@@ -1,5 +1,5 @@
-## Full‑stack tinkerer building interactive tools, web sites and web applications.
-Specializing in PHP, JavaScript/Node.js and Python.
+## Full‑stack tinkerer building interactive tools, websites and web applications
+Specializing in PHP, JavaScript/Node.js, APIs and Python
 
 Popular Twitch projects that I work on:
 - [twitch_clips_player](https://github.com/teklynk/twitch_clips_player) – Twitch OBS overlay for auto‑playing Twitch clips via chat commands.
@@ -10,5 +10,5 @@ Popular Twitch projects that I work on:
 - [twitch-chat-overlay-starter](https://github.com/teklynk/twitch-chat-overlay-starter) - Twitch chat overlay using TMI.js. Basics needed for creating your own custom chat overlay.
 - [elements](https://github.com/teklynk/elements) - Twitch Web UI for creating OBS overlays - Laravel, PHP, MySQL.
 
-Open to collaborations on tools, open‑source automation, or web projects.
+Open to collaborations on tools, automation, or web projects.
 Outside of code, I enjoy binge watching TV series, movies and coffee.
