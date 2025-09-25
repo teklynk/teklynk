@@ -25,7 +25,7 @@ Designed & built a purpose‑made content management system from the ground up, 
 - [twitch-chat-overlay-starter](https://github.com/teklynk/twitch-chat-overlay-starter) - Twitch chat overlay using TMI.js. Basics needed for creating your own custom chat overlay.
 - [elements](https://github.com/teklynk/elements) - Twitch Web UI for creating OBS overlays - Laravel, PHP, MySQL.
 
-🌱 What I'm Learning
+🧠 What I'm Learning
 
 - Python and Flask
 - Laravel and Filament (admin panel)
