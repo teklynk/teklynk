@@ -10,6 +10,8 @@ I have been working on a few Python projects that solve real-world problems. I u
 - [raspi-streamer](https://github.com/teklynk/raspi-streamer) - Capture and stream to any RTMP endpoint using a Raspberry Pi, Python, Flask
 - [hotkey_listener](https://github.com/teklynk/hotkey_listener) - Python Script-based Hotkey Listener with JSON Configuration and Executable Script or Macro Support
 
+I frequently contribute scripts and utilities to my GitHub Gist. You might find something useful there: [https://gist.github.com/teklynk](https://gist.github.com/teklynk)
+
 Designed & built a purpose‑made content management system from the ground up, using PHP, SQLite, and Composer to deliver a robust, scalable solution that meets the event’s unique requirements.
 
 - [Save&Raid](https://saveandraid.org) - Save&Raid is a multi-streamer relay marathon where our community of streamers, over the course of a weekend, works in turns to complete a game series by playing for one hour each, then passing along the save files and viewers to the next streamer in the list, through the use of Twitch raids. We raise money for suicide prevention each year through Suicide Awareness Voices of Education (SAVE).
