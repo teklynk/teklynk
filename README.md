@@ -28,7 +28,7 @@ Designed & built a purpose‑made content management system from the ground up, 
 - [elements](https://github.com/teklynk/elements) - Twitch Web UI for creating OBS overlays - Laravel, PHP, MySQL.
 
 🧠 What I'm Learning
-
+- n8n.io
 - Python and Flask
 - Laravel and Filament (admin panel)
 - Vue.js
