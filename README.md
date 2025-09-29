@@ -45,3 +45,9 @@ Designed & built a purpose‑made content management system from the ground up, 
 - [Linkedin](https://www.linkedin.com/in/ryan-jones-95b824376/)
 - [Website/Blog](https://teklynk.com/)
 - [Email](mailto:ryanjones.github@pm.me)
+
+❤️ Support my work and projects
+- [Github Sponsors](https://github.com/sponsors/teklynk)
+- [LiberaPay](https://liberapay.com/teklynkliberapay)
+- [KoFi](https://ko-fi.com/teklynk)
+- [PayPal](https://www.paypal.com/donate/?hosted_button_id=UVKZUYFMXQDPL)
