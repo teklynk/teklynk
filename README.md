@@ -1,5 +1,4 @@
-## Hi there 👋 I'm Ryan! (aka: Teklynk)
-
+## Hi there 👋 I'm Ryan
 Full‑stack tinkerer building interactive tools, websites and web applications. Specializing in PHP, JavaScript/Node.js, APIs and Python. Over 15 years of experience designing, building, and scaling web applications for enterprise, government, and e-commerce environments.
 
 🚀 What I'm Working On
@@ -18,7 +17,7 @@ Designed & built a purpose‑made content management system from the ground up, 
 - [Save&Raid](https://saveandraid.org) - Save&Raid is a multi-streamer relay marathon where our community of streamers, over the course of a weekend, works in turns to complete a game series by playing for one hour each, then passing along the save files and viewers to the next streamer in the list, through the use of Twitch raids. We raise money for suicide prevention each year through Suicide Awareness Voices of Education (SAVE).
 - [Dosember](https://dosember.com) - Every year members of the streaming community on Twitch join together to spend the entire month of December celebrating games from the era of MS-DOS on the personal computer and promoting each other's channels.
 
-⭐ Popular Twitch projects that I work on
+✨ Popular Twitch projects that I work on
 
 - [twitch_clips_player](https://github.com/teklynk/twitch_clips_player) - Twitch OBS overlay for auto‑playing Twitch clips via chat commands.
 - [twitch_shoutout](https://github.com/teklynk/twitch_shoutout) - Twitch !so command delivering random clips and personalized shout‑outs.
@@ -28,7 +27,7 @@ Designed & built a purpose‑made content management system from the ground up, 
 - [twitch-chat-overlay-starter](https://github.com/teklynk/twitch-chat-overlay-starter) - Twitch chat overlay using TMI.js. Basics needed for creating your own custom chat overlay.
 - [elements](https://github.com/teklynk/elements) - Twitch Web UI for creating OBS overlays - Laravel, PHP, MySQL.
 
-🧠 What I'm Learning
+📚 What I'm Learning
 - n8n.io
 - Python and Flask
 - Laravel and Filament (admin panel)
