@@ -43,7 +43,7 @@ Designed & built a purpose‑made content management system from the ground up, 
 - [Owncast](https://owncast.teklynk.com/)
 - [Linkedin](https://www.linkedin.com/in/ryan-jones-95b824376/)
 - [Website/Blog](https://teklynk.com/)
-- [Email](mailto:teklynkgithub.dainty002@passmail.net)
+- [Email](https://letterbird.co/teklynk)
 
 ## ❤️ Support my work and projects
 - [Github Sponsors](https://github.com/sponsors/teklynk)
