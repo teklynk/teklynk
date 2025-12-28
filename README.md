@@ -36,9 +36,3 @@ I frequently contribute scripts and utilities to my GitHub Gist. You might find 
 ## 📫 How to Reach Me
 - [Website/Blog](https://teklynk.com/)
 - [Email](https://letterbird.co/teklynk)
-
-## ❤️ Support my work and projects
-- [Github Sponsors](https://github.com/sponsors/teklynk)
-- [LiberaPay](https://liberapay.com/teklynkliberapay)
-- [KoFi](https://ko-fi.com/teklynk)
-- [PayPal](https://www.paypal.com/donate/?hosted_button_id=UVKZUYFMXQDPL)
