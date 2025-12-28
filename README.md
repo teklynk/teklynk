@@ -34,9 +34,6 @@ I frequently contribute scripts and utilities to my GitHub Gist. You might find 
 - Open to collaborations on tools, automation, or web projects.
 
 ## 📫 How to Reach Me
-- [Mastodon](https://social.linux.pizza/@teklynk)
-- [Owncast](https://owncast.teklynk.com/)
-- [Linkedin](https://www.linkedin.com/in/ryan-jones-95b824376/)
 - [Website/Blog](https://teklynk.com/)
 - [Email](https://letterbird.co/teklynk)
 
