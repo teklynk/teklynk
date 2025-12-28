@@ -3,8 +3,6 @@ Full‑stack tinkerer building interactive tools, websites and web applications.
 
 ## 🚀 What I'm Working On
 
-I have been working on a few Python projects that solve real-world problems. I use these tools/apps everyday now.
-
 - [notes](https://github.com/teklynk/notes) - A simple, self-hosted, encrypted notes application built with Python, Flask, SQLite, Docker.
 - [pastebin](https://github.com/teklynk/pastebin) - Simple Python pastebin solution. Python, Flask, SQLite, Docker.
 - [raspi-streamer](https://github.com/teklynk/raspi-streamer) - Capture and stream to any RTMP endpoint using a Raspberry Pi, Python, Flask
