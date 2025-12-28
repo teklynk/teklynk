@@ -11,6 +11,8 @@ I have been working on a few Python projects that solve real-world problems. I u
 - [hotkey_listener](https://github.com/teklynk/hotkey_listener) - Python Script-based Hotkey Listener with JSON Configuration and Executable Script or Macro Support
 - [Save&Raid.org](https://saveandraid.org) - Designed & built a purpose‑made content management system from the ground up, using PHP, SQLite, and Composer to deliver a robust, scalable solution that meets the event’s unique requirements.
 
+I frequently contribute scripts and utilities to my GitHub Gist. You might find something useful there: [https://gist.github.com/teklynk](https://gist.github.com/teklynk)
+
 ## ✨ Popular Twitch projects that I work on
 
 - [twitch_clips_player](https://github.com/teklynk/twitch_clips_player) - Twitch OBS overlay for auto‑playing Twitch clips via chat commands.
@@ -20,8 +22,6 @@ I have been working on a few Python projects that solve real-world problems. I u
 - [twitch_chat_alerts](https://github.com/teklynk/twitch_api_public) - Twitch chat alerts overlay. Supports chat commands, sound alerts, video alerts, gifs, shout-outs, random chat messages.
 - [twitch-chat-overlay-starter](https://github.com/teklynk/twitch-chat-overlay-starter) - Twitch chat overlay using TMI.js. Basics needed for creating your own custom chat overlay.
 - [elements](https://github.com/teklynk/elements) - Twitch Web UI for creating OBS overlays - Laravel, PHP, MySQL.
-
-I frequently contribute scripts and utilities to my GitHub Gist. You might find something useful there: [https://gist.github.com/teklynk](https://gist.github.com/teklynk)
 
 ## 📚 What I'm Learning
 - n8n.io
