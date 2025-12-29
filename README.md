@@ -11,7 +11,7 @@ Full‑stack tinkerer building interactive tools, websites and web applications.
 
 I frequently contribute scripts and utilities to my GitHub Gist. You might find something useful there: [https://gist.github.com/teklynk](https://gist.github.com/teklynk)
 
-## Popular Twitch projects that I work on
+## Popular projects that I work on
 
 - [twitch_clips_player](https://github.com/teklynk/twitch_clips_player) - Twitch OBS overlay for auto‑playing Twitch clips via chat commands.
 - [twitch_shoutout](https://github.com/teklynk/twitch_shoutout) - Twitch !so command delivering random clips and personalized shout‑outs.
