@@ -17,7 +17,7 @@ I frequently contribute scripts and utilities to my GitHub Gist. You might find 
 - [twitch_shoutout](https://github.com/teklynk/twitch_shoutout) - Twitch !so command delivering random clips and personalized shout‑outs.
 - [twitch_chat_emotes](https://github.com/teklynk/twitch_chat_emotes) - Twitch Real‑time animated emote overlay with customizable effects.
 - [twitch_api_public](https://github.com/teklynk/twitch_api_public) - Simple PHP Twitch API Gateway that only requires the user/channel name to return data.
-- [twitch_api_public](https://github.com/teklynk/twitch_multiview) - A lightweight web application that allows you to watch multiple Twitch streams simultaneously in a dynamic grid layout.
+- [twitch_api_multiview](https://github.com/teklynk/twitch_multiview) - A lightweight web application that allows you to watch multiple Twitch streams simultaneously in a dynamic grid layout.
 
 ## What I'm Learning
 - n8n.io
