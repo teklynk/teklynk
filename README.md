@@ -16,8 +16,10 @@ I frequently contribute scripts and utilities to my GitHub Gist. You might find 
 - [twitch_clips_player](https://github.com/teklynk/twitch_clips_player) - Twitch OBS overlay for auto‑playing Twitch clips via chat commands.
 - [twitch_shoutout](https://github.com/teklynk/twitch_shoutout) - Twitch !so command delivering random clips and personalized shout‑outs.
 - [twitch_chat_emotes](https://github.com/teklynk/twitch_chat_emotes) - Twitch Real‑time animated emote overlay with customizable effects.
-- [twitch_api_public](https://github.com/teklynk/twitch_api_public) - Simple PHP Twitch API Gateway that only requires the user/channel name to return data.
+- [twitch_chat_overlay](https://github.com/teklynk/twitch_chat_overlay) - A clean chat overlay for Twitch streamers.
+- [twitch_chat_overlay_horizontal](https://github.com/teklynk/twitch_chat_overlay_horizontal) - A clean, horizontal ticker-style chat overlay for your Twitch stream. Perfect for compact layouts or bottom-of-screen scrolls.
 - [twitch_multiview](https://github.com/teklynk/twitch_multiview) - A lightweight web application that allows you to watch multiple Twitch streams simultaneously in a dynamic grid layout.
+- [twitch_api_public](https://github.com/teklynk/twitch_api_public) - Simple PHP Twitch API Gateway that only requires the user/channel name to return data.
 
 ## What I'm Learning
 - n8n.io
