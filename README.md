@@ -2,6 +2,7 @@
 Full‑stack tinkerer building interactive tools, websites and web applications. Specializing in PHP, JavaScript/Node.js, APIs and Python. Over 15 years of experience designing, building, and scaling web applications for enterprise, government, and e-commerce environments.
 
 ## What I'm Working On
+- [Smart-Dashboard](https://github.com/teklynk/smart-dashboard) - A smart-TV style dashboard for Debian/XFCE. Runs in browser kiosk mode and launches Flatpak apps, system commands, and web URLs as sandboxed fullscreen web apps. Fully configurable via JSON and CSS.
 - [PirateBox](https://github.com/teklynk/piratebox) - Inspired by the discontinued [PirateBox project](https://en.wikipedia.org/wiki/PirateBox), this lightweight implementation uses Nginx, PHP, dnsmasq, and hostapd without requiring a database. It functions as a "captive portal" similar to public Wi-Fi login pages found in hotels or libraries, but instead of requesting credentials, it immediately serves the file-sharing page.
 - [notes](https://github.com/teklynk/notes) - A simple, self-hosted, encrypted notes application built with Python, Flask, SQLite, Docker.
 - [pastebin](https://github.com/teklynk/pastebin) - Simple Python pastebin solution. Python, Flask, SQLite, Docker.
