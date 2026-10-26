@@ -1,5 +1,5 @@
 # Hi there, I'm Ryan
-Full‑stack tinkerer building interactive tools, websites and web applications. Specializing in PHP, JavaScript/Node.js, APIs and Python. Over 15 years of experience designing, building, and scaling web applications for enterprise, government, and e-commerce environments.
+Building interactive tools, websites and web applications. Specializing in PHP, JavaScript/Node.js, APIs and Python. Over 15 years of experience designing, building, and scaling web applications for enterprise, government, and e-commerce environments.
 
 ## What I'm Working On
 - [Teklynk Tools](https://teklynktools.com/) - Hub site for some of the Twitch tools that I have created over the years.
