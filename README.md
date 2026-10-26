@@ -23,18 +23,6 @@ I frequently contribute scripts and utilities to my GitHub Gist. You might find 
 - [twitch_multiview](https://github.com/teklynk/twitch_multiview) - A lightweight web application that allows you to watch multiple Twitch streams simultaneously in a dynamic grid layout.
 - [twitch_api_public](https://github.com/teklynk/twitch_api_public) - Simple PHP Twitch API Gateway that only requires the user/channel name to return data.
 
-## What I'm Learning
-- n8n.io
-- Python and Flask
-- Laravel and Filament (admin panel)
-- Vue.js
-- Bash scripting for workflow automation
-- Studying for Linux certifications
-
-## I’m Looking for Help With
-
-- Open to collaborations on tools, automation, or web projects.
-
 ## How to Reach Me
 - [Website/Blog](https://teklynk.com/)
 - [Email](https://letterbird.co/teklynk)
