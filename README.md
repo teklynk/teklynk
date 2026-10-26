@@ -1,6 +1,8 @@
 # Hi there, I'm Ryan
 Building interactive tools, websites and web applications. Specializing in PHP, JavaScript/Node.js, APIs and Python. Over 15 years of experience designing, building, and scaling web applications for enterprise, government, and e-commerce environments.
 
+I'm not a master of any single technology, but I'm resourceful and enjoy digging into new problems, figuring out what's possible, coming up with solutions, and learning the skills needed to make them happen. I value teamwork and a willingness to keep improving.
+
 ## What I'm Working On
 - [Teklynk Tools](https://teklynktools.com/) - Hub site for some of the Twitch tools that I have created over the years.
 - [Smart-Dashboard](https://github.com/teklynk/smart-dashboard) - A smart-TV style dashboard for Debian/XFCE. Runs in browser kiosk mode and launches Flatpak apps, system commands, and web URLs as sandboxed fullscreen web apps. Fully configurable via JSON and CSS.
